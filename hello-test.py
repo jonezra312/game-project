@@ -7,4 +7,4 @@ def on_draw():
     window.clear()
     label.draw()
 
-pyglet.app.run()
+pyglet.app.run() 
